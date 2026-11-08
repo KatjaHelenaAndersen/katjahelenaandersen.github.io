@@ -1,7 +1,8 @@
 ---
 permalink: /
 title: "Katja Helena Andersen"
-excerpt: "About me"
+seo_title: "Katja Helena Andersen | Ph.D. Student in Econometrics and Data Science, SDU"
+excerpt: "Katja Helena Andersen is a Ph.D. student in Econometrics and Data Science at the University of Southern Denmark (SDU), researching how unemployment, organisational change and job security affect mental health."
 author_profile: true
 redirect_from:
   - /about/

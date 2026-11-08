@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Katja Helena Andersen"
 title_separator          : "-"
 name                     : &name "Katja Helena Andersen"
-description              : &description "Personal website of Katja Helena Andersen"
+description              : &description "Katja Helena Andersen is a Ph.D. student in Econometrics and Data Science at the University of Southern Denmark (SDU). Research on unemployment, job security and mental health."
 url                      : https://katjahelenaandersen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "KatjaHelenaAndersen/katjahelenaandersen.github.io"
@@ -69,6 +69,9 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://www.linkedin.com/in/katja-helena-a-554962302"
+    - "https://orcid.org/0009-0004-7262-4901"
+    - "https://github.com/KatjaHelenaAndersen"
 
 
 # Analytics
