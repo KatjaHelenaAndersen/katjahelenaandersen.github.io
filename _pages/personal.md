@@ -16,7 +16,7 @@ Outside of research, I have more interests than I have time for. I love sports o
 Feel free to reach out if you’d like to talk about anything! You can email me at [katjan@sam.sdu.dk](mailto:katjan@sam.sdu.dk).
 
 <div class="photo-row">
-  <img src="{{ base_path }}/images/personal.jpg" alt="Katja smiling and giving two thumbs up in front of a mountain lake" style="object-position: center 60%;">
   <img src="{{ base_path }}/images/personal-2.jpg" alt="Katja standing in front of a yellow, ivy-covered building with a large round window" style="object-position: center 65%;">
-  <img src="{{ base_path }}/images/personal-3.jpg" alt="Katja jumping with arms raised in front of a large stone cathedral" style="object-position: center 65%;">
+  <img src="{{ base_path }}/images/personal.jpg" alt="Katja smiling and giving two thumbs up in front of a mountain lake" style="object-position: center 60%;">
+  <img src="{{ base_path }}/images/personal-3.jpg" alt="Katja standing in front of pale blue doors and a wall covered in flowering vines" style="object-position: center 65%;">
 </div>
