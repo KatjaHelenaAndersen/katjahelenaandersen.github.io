@@ -2,18 +2,15 @@
 permalink: /
 title: "Katja Helena Andersen"
 seo_title: "Katja Helena Andersen | Ph.D. Student in Econometrics and Data Science, SDU"
-excerpt: "Katja Helena Andersen is a Ph.D. student in Econometrics and Data Science at the University of Southern Denmark (SDU), researching how unemployment, organisational change and job security affect mental health."
+excerpt: "Katja Helena Andersen is a Ph.D. student in Economics at the University of Southern Denmark (SDU). Her research in health and labour economics uses Danish administrative registers and causal inference methods to study how policy reforms and health shocks shape health and economic outcomes."
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I’m a first-year Ph.D. student in Econometrics and Data Science at the Department of Economics at the University of Southern Denmark (SDU). I received both my BSc and MSc in Economics from the University of Southern Denmark (SDU). In 2026, I am planning to spend an academic spring at the University of California, Los Angeles (UCLA).
+Hi there! I’m Katja, a PhD student in the Department of Economics at the University of Southern Denmark, where I also completed my BSc and MSc in Economics. My research lies in health economics and its intersection with labour economics. Drawing on Denmark’s population-wide administrative registers, I use causal inference methods to study how policy reforms and health shocks shape individuals’ health and economic outcomes.
 
-I am currently working on the project "Beyond the Paycheck: Insights into the effect of Unemployment, Organisational Change, and Job Security on Mental Health". 
-More broadly, I am interested in the role of economic policy in promoting health, and I aim to continue advancing research in this field throughout my career.
+I am currently part of a project funded by the Carlsberg Foundation that examines how unemployment, organisational change and job insecurity affect mental health. Within this project, my own work focuses on health shocks that limit people’s ability to work, and how these shocks affect their mental health.
 
-When I’m not working on my research, I enjoy spending time with friends and family, exploring new hobbies such as cycling and classical singing. My greatest passion, however, is aerial fitness.
-
-
+Earlier work from my studies uses individual-level historical records to follow the first generations of women who were able to enrol in higher education after finishing upper secondary school in the late nineteenth century. I trace their family backgrounds and educational paths, shedding new light on the role of higher education in long-term social mobility.
