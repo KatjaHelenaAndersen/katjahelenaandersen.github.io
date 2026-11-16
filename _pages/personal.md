@@ -13,6 +13,6 @@ I began my university studies in mathematics at Aarhus University, but soon foun
 
 Outside of research, I have more interests than I have time for. I love sports of all kinds, aerial fitness above all, and I’m always eager to try something new, whether that’s a new hobby, a new album or a new book.
 
-Feel free to reach out if you’d like to talk about anything!
+Feel free to reach out if you’d like to talk about anything! You can email me at [katjan@sam.sdu.dk](mailto:katjan@sam.sdu.dk).
 
 <img src="{{ base_path }}/images/personal.jpg" alt="Katja smiling and giving two thumbs up in front of a mountain lake" style="max-width: 260px; width: 100%; border-radius: 6px; margin-top: 1em;">
