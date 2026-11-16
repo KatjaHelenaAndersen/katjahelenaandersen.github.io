@@ -96,22 +96,19 @@ body {
   border-color: $accent;
 }
 
-.author__urls a {
-  &:hover {
-    color: $accent;
-  }
-
-  i,
-  .fa,
-  .fas,
-  .fab,
-  .ai {
-    color: $accent;
-  }
+.author__urls a:hover {
+  color: $accent;
 }
 
-.author__content li i {
+/* override the theme's brand colours so every profile icon is orange */
+.sidebar .author__urls i,
+.sidebar .author__urls .ai {
   color: $accent;
+}
+
+/* let long lines (e.g. the university name) wrap instead of overflowing */
+.sidebar .author__urls li {
+  white-space: normal;
 }
 
 /* Footer
