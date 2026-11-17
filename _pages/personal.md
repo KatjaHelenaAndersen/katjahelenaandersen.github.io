@@ -9,7 +9,7 @@ author_profile: true
 
 Growing up, I was what is often called a “third culture kid.” Born in Sri Lanka to a Sri Lankan mother and a Danish father, I spent my childhood between Sri Lanka, Jamaica, Germany and Singapore before settling in Denmark at 17, where I completed the International Baccalaureate in Aalborg.
 
-I began my university studies in mathematics at Aarhus University, but soon found myself drawn to economics, particularly applied economics and its ability to answer real-world questions with data. After a gap year at Uldum Højskole, I began my studies in economics at the University of Southern Denmark in 2019, and I have happily stayed ever since, now as a PhD student at the start of an academic path.
+I began my university studies in mathematics at Aarhus University, but soon found myself drawn to economics, particularly applied economics and its ability to answer real-world questions with data. I began my studies in economics at the University of Southern Denmark in 2019, and I have happily stayed ever since, now as a PhD student at the start of an academic path.
 
 Outside of research, I have more interests than I have time for. I love sports of all kinds, aerial fitness above all, and I’m always eager to try something new, whether that’s a new hobby, a new album or a new book. I have been enjoying Sayaka Murata’s work a bit too much.
 
