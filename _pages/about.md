@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm Katja, a PhD student in the Department of Economics at the University of Southern Denmark (SDU), where I also completed my BSc and MSc in Economics. I’m a member of the Econometrics and Data Science research platform. My research lies in health economics and its intersection with labour economics. Drawing on Denmark’s population-wide administrative registers, I use causal inference methods to study how policy reforms and health shocks shape individuals’ health and economic outcomes.
+Hi there! I'm Katja, a PhD student in the Department of Economics at the University of Southern Denmark (SDU), where I also completed my BSc and MSc in Economics. I’m a member of the Econometrics and Data Science research platform. My research lies in health economics and its intersection with labour economics. Drawing on Denmark’s population-wide administrative registers, I use causal inference methods to study how policy reforms and health shocks shape individuals’ health and economic outcomes. During my PhD, I spent six months as a visiting researcher at the University of California, Los Angeles, hosted by Professor Adriana Lleras-Muney.
 
 I'm currently part of a project funded by the Carlsberg Foundation that examines how unemployment, organisational change and job insecurity affect mental health. Within this project, my own work focuses on health shocks that limit people’s ability to work, and how these shocks affect their mental health.
 
