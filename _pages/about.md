@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About"
-seo_title: "Katja Helena Andersen | Ph.D. Student in Econometrics and Data Science, SDU"
+seo_title: "Katja Helena Andersen - Ph.D. Student in Economics, University of Southern Denmark"
 excerpt: "Katja Helena Andersen is a Ph.D. student in Economics at the University of Southern Denmark (SDU). Her research in health and labour economics uses Danish administrative registers and causal inference methods to study how policy reforms and health shocks shape health and economic outcomes."
 author_profile: true
 redirect_from:
